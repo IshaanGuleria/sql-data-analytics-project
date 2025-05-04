@@ -6,6 +6,7 @@ A comprehensive collection of SQL scripts for data exploration, analytics, and r
 This project is licensed under the MIT License.
 
 🌟 About Me
+
 Hi there! I'm **Ishaan Guleria** — An IT professional passionate about learning, building, and delivering impactful solutions that drive real-world results.
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/ishaan-guleria-865858200/)
