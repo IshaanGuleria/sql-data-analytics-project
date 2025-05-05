@@ -63,8 +63,6 @@ A comprehensive collection of SQL scripts for data exploration, analytics, and r
    - Customers acquired via holiday campaigns had ~40% lower second-order rates.
    - Repeat customers placed their second order within 25 days on average.
      
-🛡️ License
-This project is licensed under the MIT License.
 
 🌟 About Me
 
